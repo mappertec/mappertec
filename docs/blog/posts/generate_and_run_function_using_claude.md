@@ -3,6 +3,7 @@ draft: false
 date: 2024-10-20
 categories:
   - ai, claude, python
+comments: true
 ---
 
 # Python Code Generation using the API for Claude AI
